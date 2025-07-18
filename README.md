@@ -4,8 +4,7 @@
 
 * **A. Sai Ganesh** – 22BIT0023 (VIT Vellore)
 * **K. Ramakrishna Siddhardh** – 22BIT0012 (VIT Vellore)
-* **R. Subramanya Harideep** – 22BCE3391 (VIT Vellore)
-* **M. Varun Teja** – 22BDS0415 (VIT Vellore)
+
 
 ---
 
